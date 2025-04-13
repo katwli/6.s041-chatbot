@@ -60,7 +60,11 @@ def create_chatbot():
                 - Return that response as a string
         """
         # TODO: Generate and return response
-        pass
+        try:
+            response = chatbot.get_response(message)
+            return response
+        except Exception as e:
+            return f"Sorry, something went wrong: {str(e)}"
 
     
     
