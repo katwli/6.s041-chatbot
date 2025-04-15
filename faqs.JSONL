@@ -1,0 +1,528 @@
+[{"content": "What should I know about kindergarten?", "role": "user"}, 
+{"content": "K2 Kindergarten is a six-hour (full-day) program for 5-year-olds and is provided in all BPS elementary schools and early learning centers. 
+School assignment is guaranteed for all children who apply for K2. 
+However, due to space constraints, including the reality that most K1 students moving up into K2 seats in their same school, 
+an assignment cannot be guaranteed to a specific school. 
+Please be sure to inquire during School Choice season about the number of open seats anticipated, 
+and please register in the month of January for the best chance at securing an assignment in a school of your choosing. 
+Visit https://www.bostonpublicschools.org/enrollment/welcome-services/grade-levels-overview/kindergarten for more information.", "role": "assistant"}]
+[{"content": "What is the Countdown to Kindergarten?", "role": "user"}, 
+{"content": "Countdown to Kindergarten is a partnership BPS leads with the City of Boston, and many community organizations, which aims to provide a positive and supportive transition into BPS kindergarten (K0, K1 or K2) for students and their families. The initiative offers free parent-child playgroups, provides readiness tips and opportunities, and hosts workshops and other transition activities. Pick up copies of their publications, available in many languages, at any Welcome Center, call 617-635-9288, visit their Facebook page, or explore their website: www.countdowntokindergarten.org.",
+"role": "assistant"}]
+[{"content": "How many schools should I list on my registration form?", "role": "user"}, 
+{"content": "More is better. At a minimum, BPS suggests you list five schools in the order in which you would like to attend, but they encourage you to rank as many schools as possible. 
+Listing more schools does not harm your chances of getting into your first choice school.
+BPS' assignment process works to provide your child with a seat at the school of your highest ranking, if there is an available seat.
+However, selections are done in random order, so it is important to list all the schools for which you are interested, in case there are no open seats at your top choices.",
+"role": "assistant"}]
+[{"content": "What does “Additional Application Requirements” or “Special Admissions” mean?", "role": "user"}, 
+{"content": "Certain schools require students to submit an extra application to be considered for admission. These applications can sometimes include an essay, teacher recommendations, and/or an audition. Contact the school directly to learn about their application process, or explore more information DiscoverBPS.org. Note: I f you do not submit a separate application to these schools, you will not be considered for admission.",
+"role": "assistant"}]
+[{"content": "What schools require special application processes?", "role": "user"}, 
+{"content": "Schools requiring special application processes include Boston Arts Academy, Boston Day and Evening Academy, Boston Green Academy, Edward M. Kennedy Academy for Health Careers, Fenway High School, New Mission High School, and Madison Park Technical Vocational High School.",
+"role": "assistant"}]
+[{"content": "How is the choice process different for schools with additional requirements?", "role": "user"}, 
+{"content": "Although each of these schools has its own application, families must also rank them on their BPS School Choice form, along with their other choices in the order of preference. \n
+Boston Public Schools assignment process works to provide students and families with their highest ranked option to which seats are available; however, because it cannot guarantee a specific assignment, it will always benefit you to rank your choices honestly. \n
+It is important to note that there is no advantage to ranking special admissions schools last. It will actually put at risk any possible assignment to a school at which you were accepted. \n
+This is because the BPS system aims to place students in their highest ranked schools – and then confirm their acceptance to any special admission schools - before finalizing the assignment.",
+"role": "assistant"}]
+[{"content": "What are exam schools?", "role": "user"}, 
+{"content": "BPS has three exam schools: Boston Latin Academy, Boston Latin School, and O’Bryant School of Math & Science.",
+"role": "assistant"}]
+[{"content": "What are charter schools?", "role": "user"}, 
+{"content": "There are three in-district charter schools that serve students in grades 9-12: Boston Day and Evening Academy, Boston Green Academy, and Edwards M. Kennedy Academy for Health Careers. These schools are shown on your choice list but also require an additional application to each school. \n
+There are additional charter schools in and around Boston that will not appear on your choice list. These schools are not part of Boston Public Schools and have their own enrollment processes. If you are interested in one of these schools, please visit applybostoncharterschools.org.",
+"role": "assistant"}]
+[{"content": "When will I be informed of my assigned school?", "role": "user"}, 
+{"content": "Students entering grade 9 that participate in the priority registration period and submit their school choices by the beginning of February will receive their school assignment by the end of March.  Students that are entering grades 7, 10, 11, and 12 or students that miss out on the priority registration period for grade 9 will be part of the second registration period and will find out their school assignment by the end of May. \n
+Please note that if your child requires a full inclusion or substantially separate placement, some of this information may not apply.  Please contact the Office of Special Education at 617 635-8599 if you have any questions.",
+"role": "assistant"}]
+[{"content": "What is Boston Public School's policy on International Exchange Students?", "role": "user"}, 
+{"content": "If you are an international student looking to enroll in BPS as part of an exchange program or on a temporary basis, you must be enrolled in grade 9, 10, or 11 and the duration of your enrollment in BPS cannot exceed one academic year.",
+"role": "assistant"}]
+[{"content": "What is Boston Public School's policy on International Exchange Students?", "role": "user"}, 
+{"content": "If you are an international student looking to enroll in BPS as part of an exchange program or on a temporary basis, you must be enrolled in grade 9, 10, or 11 and the duration of your enrollment in BPS cannot exceed one academic year.",
+"role": "assistant"}]
+[
+{
+    "content": "Will students participating in advanced courses (i.e. Advanced Work Class, Advanced Placement, or Honor classes) receive additional points in the GPA calculation process?",
+    "role": "user"
+},
+{
+    "content": "Students participating in advanced coursework do not receive additional points. The GPA will be calculated based on the report card marks as provided by the child’s school.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Why does an A+ have the same point value as an A?",
+    "role": "user"
+},
+{
+    "content": "The approved admissions policy required the district to develop an equitable grading policy where an A+ is treated like an A. This was done in part to account for the fact that many BPS schools do not offer an A+ in their grading, with the overall goal of creating standardized grading practices across all of our schools.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How will BPS convert the student marks?",
+    "role": "user"
+},
+{
+    "content": "BPS will utilize an 11-point scale (0-11) that correlates to the A-F letter mark system, which will allow us to calculate the GPA. Once the GPA has been calculated on an 11-point scale, it will be scaled to a full 100 points by dividing the GPA by 11 and multiplying by 100.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "If I rank the exam schools on the school choice form, and my child does not receive an invitation, will my child lose their current seat at BPS?",
+    "role": "user"
+},
+{
+    "content": "If the student does not qualify to receive an invitation to an exam school, the student will maintain their assignment at the current BPS school, provided that grade is offered in their school. Parents are not required to rank the student’s current BPS school during the school choice process.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "If I rank the exam schools on the school choice form, and my child receives an invitation, will my child lose their current seat at BPS?",
+    "role": "user"
+},
+{
+    "content": "If a family ranked the exam schools on the school choice form and the student receives an invitation, the student will be automatically assigned to the exam school to which they have been invited. Families will not have the option of making a final decision after invitations are released.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Will the exam schools have wait lists?",
+    "role": "user"
+},
+{
+    "content": "Since the 2022-2023 school year, BPS created waitlists for the three exam schools. Students who do not receive an invitation to their top-ranked exam school may be eligible to be placed on a waitlist for any exam school to which they did not get invited. Ordering of the waitlist will function as a continuation of the exam school invitation policy. Students will be ordered by their composite score and random number within their SES Tier. Waitlists will only be created for the entry grade levels of 7, 9, and 10 and capped at 100 students. There will be separate waitlists created for each school and for each grade level. Waitlists will remain in effect until November 30 and will not roll over from year to year. Please note that BPS does not anticipate movement on the waitlists until after the start of school in September; however, we will contact waitlist families if seats are available earlier.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Does the invitation process consider sibling preference?",
+    "role": "user"
+},
+{
+    "content": "The exam schools invitation process does not consider sibling priority due to the admissions criteria required for the application process.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How is the 70/30 split determined using the student’s test scores and GPA?",
+    "role": "user"
+},
+{
+    "content": "The test score (30%) and the GPA (70%) will be combined to generate the student’s composite score for the exam school admissions process. Ten or fifteen points will be allotted to students who meet specific criteria (e.g. students experiencing homelessness and students attending schools with 40% or more enrollment of economically disadvantaged students).",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Will BPS continue to work with an external third-party organization regarding the admission process?",
+    "role": "user"
+},
+{
+    "content": "Yes, the district will continue to work with an external organization to conduct an independent review of all application phases to ensure accuracy in the implementation of the BPS exam school admissions process.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Will BPS consider all BPS students for admission, including Students with Disabilities and English Learner students?",
+    "role": "user"
+},
+{
+    "content": "Yes, all students who meet the Grade Point Average (GPA) average requirement of a B or higher and are enrolled in grade level curriculum will be considered for admissions, as long as they have also taken the MAP admissions test for exam schools at least once. Students working on a modified curriculum, participating in MCAS Alternate Assessments, or enrolled in SLIFE (Students with Limited or Interrupted Formal Education) are not eligible to participate in the admissions process.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Are all families required to confirm their Boston residency?",
+    "role": "user"
+},
+{
+    "content": "Families with students currently attending a BPS school are not required to complete the Residency Verification process; however, if a family has moved recently, the parent/guardian must update the home address and contact information at a BPS Welcome Center as soon as possible, as is mandatory per BPS’ residency policy. Applicants attending private, parochial, Commonwealth charter, METCO program schools, or are being home-schooled are required to confirm their residency in the City of Boston at a BPS Welcome Center. Priority residency verification is between October 15th and November 8th. Students that have registered for the MAP test or have previously completed the MAP with BPS have until 5pm on November 15th to complete their residency verification. No exceptions beyond this date will be considered.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Is my child required to take an admissions test?",
+    "role": "user"
+},
+{
+    "content": "Yes, all exam school applicants are required to sit for the MAP Growth test as part of the application process. Students have the option of taking the test twice and use the higher Reading and Math score for the application. Applicants are required to sit for the BPS’ administration of the MAP Growth test to be considered for exam school admissions. You can learn more about the MAP Growth admissions test for exam schools on our “How to Apply” page.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Are current exam school students eligible to apply for admissions to a different exam school?",
+    "role": "user"
+},
+{
+    "content": "BPS grade 8 students currently attending an exam school will be able to participate in the admissions cycle to apply to a different exam school for grade 9. The parent/guardian is required to visit a BPS Welcome Center with their photo identification between January 6 and February 7, 2025 to make new school selections for grade 9. Boston Latin Academy and Boston Latin School do not accept new students entering grades 10–12.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Are students able to apply to the John D. O’Bryant School for grade 10?",
+    "role": "user"
+},
+{
+    "content": "Yes, the O’Bryant School will accept a small number of new students for grade 10, if there are seats available. Boston Latin Academy and Boston Latin School do not accept applications for grade 10.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How do I provide my preferences for the three exam schools?",
+    "role": "user"
+},
+{
+    "content": "Current BPS students will submit their ranked preferences in January 2025 through the school choice form, which will be provided electronically and distributed through their schools.\n\nApplicants attending private, parochial, Commonwealth charter, METCO program schools, or are being home-schooled will submit their ranked preferences during the mandatory Residency Verification Process, taking place in BPS Welcome Centers, from Tuesday, October 15 to Friday, November 8.\n\nParent/guardians of BPS grade 8 students currently attending an exam school applying to a different exam school for grade 9, and current BPS grade 9 students applying to grade 10 at the O’Bryant must visit a BPS Welcome Center with their photo identification between Monday, January 6 and Friday, February 7, 2025 to make school selections for the next school year.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Why are families required to submit school rankings before we know if our child is eligible to apply?",
+    "role": "user"
+},
+{
+    "content": "The district is not able to calculate the student GPA until early March, after the close of the second quarter marking period on January 29, 2025, to determine which students meet the B or higher GPA requirement. Families need to submit their school choice rankings prior to the GPA calculation process to ensure that invitations can go out in April–May.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Can I rank other BPS schools, other than exam schools, on the School Choice Form?",
+    "role": "user"
+},
+{
+    "content": "Yes. Families are encouraged to rank any BPS school on their choice form in the order of their true preference. Note, some of our schools have separate admissions applications that must be completed with the school directly in order to be considered. The schools with separate applications are identified on the school choice form.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How will the district determine which BPS students qualify for the additional 15 points based on homelessness, being in the care of the Department of Children and Families, or residing in public housing?",
+    "role": "user"
+},
+{
+    "content": "The district is able to confirm this information based on the home address documentation provided by the family during the initial registration process or from any documented updates since that time. The additional points will be added automatically to any BPS student’s application that meets this criteria.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How will the district determine which applicants not currently attending BPS will qualify for the additional 15 points based on homelessness, DCF custody, or public housing?",
+    "role": "user"
+},
+{
+    "content": "This information is collected during the required Residency Verification process at a BPS Welcome Center. Families are able to self disclose if they are experiencing housing instability or homelessness. The district also receives a list of properties in Boston that fall under the public housing criteria.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How will the district determine which students qualify for the additional points based on schools that have 40% or more economically disadvantaged families enrolled?",
+    "role": "user"
+},
+{
+    "content": "The district will determine the list of schools based on a five-year average enrollment of 40% or more economically disadvantaged families, as defined by the Department of Elementary and Secondary Education (DESE). Students that attended those schools during grade 5 (if applying for 7th grade at an exam school) or grade 7 (if applying for 9th grade at an exam school) will receive between two (2) and ten (10) additional points, depending on the student’s socioeconomic tier.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What are the criteria for 'economically disadvantaged' families?",
+    "role": "user"
+},
+{
+    "content": "Families that are participating in one or more of the following state-administered programs: the Supplemental Nutrition Assistance Program (SNAP); the Transitional Assistance for Families with Dependent Children (TAFDC); the Department of Children and Families’ (DCF) foster care program; and MassHealth (Medicaid). You can find more about the state’s process at DESE’s website.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Are there any BPS schools that do not qualify for the additional points?",
+    "role": "user"
+},
+{
+    "content": "There are seven BPS schools that did not meet the threshold of 40% or more of economically disadvantaged students enrolled over a 5-year average as stated in the exam school admissions policy. The schools that did not meet the specified criteria are the Dante Alighieri Montessori School, Boston Latin School, Eliot Innovation School, Kilmer K–8 School, Lyndon K–8 School, Joseph Manning Elementary School, and the Wolfgang Mozart Elementary School.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Will students attending private, parochial, commonwealth charter, METCO program schools, or being home-schooled have the opportunity to qualify for the additional points?",
+    "role": "user"
+},
+{
+    "content": "Non-BPS schools that meet the criteria of a student population over five years that is made up of 40% or more economically disadvantaged families as defined by the Department of Elementary and Secondary Education (DESE), will be eligible for additional points. Schools are required to follow the same DESE guidelines used by the Boston Public Schools district to determine eligibility, submit an affidavit, and supporting documentation.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Is it possible for students to have a composite score of over 100 with the additional points?",
+    "role": "user"
+},
+{
+    "content": "Students eligible for the additional points may get a maximum score of 110 or 115. Additional points are not additive. If a student meets the criteria for both 15 points and the 2–10 points, only the highest (15 points) will be applied to their score.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What is the process for updating these tiers?",
+    "role": "user"
+},
+{
+    "content": "The tiers will be updated every winter, pending data availability.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "The 2020 Census data includes new geographic boundaries for the Census tracts used to assign tiers. When do you expect to produce tiers that use the new Census tract boundaries?",
+    "role": "user"
+},
+{
+    "content": "The tier calculation uses 5-year averages from the American Community Survey (ACS). Once the Census Bureau publishes ACS data using the new geographic boundaries, we will be able to calculate the tiers using the new census tract boundaries.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Are you able to share the model used to assign tiers? What census data factors are used and how are they weighted?",
+    "role": "user"
+},
+{
+    "content": "There are five factors used in the tier calculation, and they are weighted equally. The factors are: (1) Percent of persons below poverty; (2) Percent of households occupied by the owner; (3) Percent of families headed by a single parent; (4) Percent of households where limited English is spoken; and (5) Educational attainment.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Will the model be re-estimated each year? If so, will that include the selection of new model factors or will only the weights be updated?",
+    "role": "user"
+},
+{
+    "content": "The admissions policy and tier calculation model will be re-visited every five years.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What if I do not have the documents required for BPS Registration?",
+    "role": "user"
+},
+{
+    "content": "Parent/Guardians and/or students over 18 years old must present a photo ID and two current proofs of Boston residency to register.\n\nFamilies who are living in Boston under another person’s lease can use the BPS landlord affidavit as one proof of residency. Families living in homeless shelters may register for BPS under the McKinney-Vento Homeless Assistance Act. Please bring a letter from the shelter staff stating that you are residing there.\n\nIf you live in Boston but are having a hard time securing acceptable proofs, please contact a Welcome Center to discuss your circumstances.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "If I complete registration, is a seat in a BPS pre-kindergarten (K0-K1) or kindergarten (K2) program guaranteed?",
+    "role": "user"
+},
+{
+    "content": "Neither K0 nor K1 classrooms are present in every school and there is no guarantee that every child who applies for BPS pre-K will receive a school assignment. BPS currently offers more than 2,400 K1 seats and is expanding the number of K1 classrooms. K0 classrooms are far more limited, and most seats are reserved for students with disabilities.\n\nAll K2 students have a guaranteed seat, although not necessarily at one of your initial school choices, and only if you agree to receive an administrative assignment if we cannot match you to a school of your choosing. If BPS cannot assign a child to a K2 school their parent/guardian(s) chose and the parent/guardian does not wish to be administratively assigned, s/he will be unassigned and placed on waitlists for the schools they ranked.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "My child already completed Kindergarten outside of BPS but will not be six years old by September 1. May I apply for a Grade 1 assignment?",
+    "role": "user"
+},
+{
+    "content": "No. There are no waivers or exceptions to our minimum age requirement for Grade 1, regardless of a child’s previous school experience. Any child who will be five years old by September 1 may apply for a K2 assignment.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How many schools should I rank on my application for assignment? Can I make additional school choices after assignment?",
+    "role": "user"
+},
+{
+    "content": "BPS strongly encourages families to rank all the schools that appear on their choice list. We suggest ranking them in your true order of preference. Choosing more schools, especially schools at which your child has a sibling priority, means a greater possibility of assignment.\n\nIf you would like to make changes after you’ve received your assignment notice, you may return to a Welcome Center to make new school choices even if your child was assigned to a school you ranked. However, we cannot guarantee that the new school(s) you choose will have available seats. A photo ID will be needed for this transaction.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How are assignments made? Are they on a first-come, first-served basis? Should I come on the first day of the first registration period?",
+    "role": "user"
+},
+{
+    "content": "No school assignments are made until the close of each registration round, so a family that registers on the first day of their registration period has no advantage over a family that registers on the last day of the same period just because they registered earlier.\n\nOnly students applying for Kindergarten (K0–K2), Grade 6, and Grade 9 who registered during the first registration period will be assigned at the close of that round even if their siblings applying for other grades registered at the same time. From the second registration period onward, all students who register in a round will be assigned following the close of that period.\n\nAt the close of every registration period, our assignment computer program (algorithm) matches students to seats based on their priorities (if applicable), their random number, and the number of seats available in the grade desired at each school in the order they were ranked on that student’s application. There are fewer open seats after each passing period, so families should try their best to register children during the first available registration period for their grade.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "I just moved to Boston with my school-age children. What if I need a school assignment right now?",
+    "role": "user"
+},
+{
+    "content": "New-to-Boston families may register for BPS at any time for a current school year assignment. Please visit a Welcome Center with 1) your child’s original birth certificate, 2) your child’s up-to-date immunization record, 3) parent/guardian’s photo identification, and two proofs of Boston residency. If you recently arrived from another country, you will also be asked to meet with a Newcomer Assessment Counselor before receiving a school assignment.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "We moved to another address in Boston after registering. What should we do?",
+    "role": "user"
+},
+{
+    "content": "If you change addresses, please inform a Welcome Center as soon as possible so that important information such as your child’s school assignment, or any new bus route, can reach you. To update your address with BPS, please return to a Welcome Center with at least two proofs (from our list) of your new Boston address and a photo ID. If your new address is in a different assignment area, you will be asked to make new school choices unless you are willing to transport your child to and from a school in your old assignment area on your own.\n\nFamilies who move out of the City of Boston are not eligible for BPS.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "My child was not assigned a school or was not assigned a school of my choice. Why did this happen?",
+    "role": "user"
+},
+{
+    "content": "BPS only assigns K0, K1, and K2 registrants to schools chosen on their assignment application. If there are no available seats for an applicant at their chosen schools, s/he will not be administratively assigned to another school unless, for K2 only, a parent requests an administrative assignment. The only exception to this policy is for K2 applicants who will be six years old by December 31.\n\nRegistrants who meet the age requirement for Grade 1 or higher are required by state law to attend school. If BPS is unable to assign these applicants to one of their school choices, BPS will administratively assign students to the school that is closest to their home that has available seats in their grade level. Administratively assigned students and students who are assigned to one of their school choices but not their top choice will be placed on a waitlist(s) for their ranked choices.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "How do I find information on my child's wait list(s)? When are wait list(s) updated and how is a student assigned from a wait list?",
+    "role": "user"
+},
+{
+    "content": "Assignments are typically mailed six weeks after the close of a registration period. Once assignment information is available, parent/guardian(s) may also contact any Welcome Center to find out their child’s waitlist(s). Families who register during the priority registration rounds, will be added to the waitlist for each school ranked higher than the school they have been assigned to.\n\nAs seats become available in schools, waitlists will be processed automatically, allowing students to move into their higher-ranked schools. In early August, waitlist selections are reduced to one selection, the family’s highest ranked school. After that date, BPS will contact families about availability off the waitlist by email and phone. If you are content with your child’s assigned school and wish to prevent an automatic transfer, please contact a Welcome Center to have your child’s name removed from a waitlist, or email welcomeservices@bostonpublicschools.org.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "My child is completing the highest grade at his/her current school. How do I choose the next BPS school?",
+    "role": "user"
+},
+{
+    "content": "BPS students who are in the final grade of their school and are moving on to Grade 6, Grade 7, or Grade 9 will receive school choice forms in January to take home from their school. School choice forms will also be sent out via email.\n\nStudents that are in the final grade of their current school and will be moving up to any other grade will receive their school choice form in February. These will also be sent out via email and paper versions sent home from school.\n\nParents/guardians should rank the schools on this application and complete the school choice form online or return the completed paper choice form to their student’s school.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What are pilot schools?",
+    "role": "user"
+},
+{
+    "content": "The Boston Public Schools' pilot schools are the result of a unique partnership launched in 1994 among Mayor Thomas M. Menino, the Boston School Committee, superintendent, and the Boston Teachers Union. The pilot schools were explicitly created to be models of educational innovation and to serve as research and development sites for effective urban public schools. Pilot schools are part of the school district but have autonomy over budget, staffing, governance, curriculum/assessment, and the school calendar to provide increased flexibility to organize schools and staffing.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What are the pilot schools in Boston Public Schools?",
+    "role": "user"
+},
+{
+    "content": "The following are pilot schools within Boston Public Schools:\n1. Another Course to College\n2. Baldwin Early Learning Pilot Academy\n3. Boston Arts Academy\n4. Boston Teachers Union School (BTU School)\n5. Fenway High School\n6. Frederick Pilot Middle School\n7. Gardner Pilot Academy\n8. Greater Egleston High School\n9. Haley Pilot School\n10. Lee Academy\n11. Lyndon K–8 School\n12. Lyon High School\n13. Lyon K–8\n14. Mason Elementary School\n15. New Mission High School\n16. Orchard Gardens K–8 School\n17. TechBoston Academy\n18. Quincy Upper School\n19. Young Achievers Science & Math Pilot K–8",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What are Horace Mann Charter Schools?",
+    "role": "user"
+},
+{
+    "content": "Horace Mann Charter Schools are innovative, semi-autonomous schools that are approved by both the Boston School Committee and the Massachusetts Department of Elementary and Secondary Education (DESE) and funded by Boston Public Schools. They are also called in-district charter schools.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What are the Horace Mann Charter Schools in Boston Public Schools?",
+    "role": "user"
+},
+{
+    "content": "Boston Public Schools include the following six Horace Mann Charter Schools:\n1. Dudley Street Neighborhood Charter School\n2. Boston Day and Evening Academy\n3. Boston Green Academy\n4. Edward M. Kennedy Academy for Health Careers\n5. UP Academy Boston\n6. UP Academy Dorchester",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What are the Innovation Schools?",
+    "role": "user"
+},
+{
+    "content": "BPS was among the first districts in the state to open an Innovation school in 2011, transforming an underperforming school with new leadership, autonomy, and flexibility. In 2012 we opened a dual language (English/Spanish) Innovation high school and began transforming our technical vocational high school.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What are the Innovation Schools in Boston Public Schools?",
+    "role": "user"
+},
+{
+    "content": "Boston Public Schools include the following Innovation Schools: Burke High School, Eliot Innovation School, Dr. William W. Henderson K-12 Inclusion School, Holmes Innovation School, Muniz Margarita Academy, and Winthrop Elementary School.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Which schools offer an International Baccalaureate (IB) program?",
+    "role": "user"
+},
+{
+    "content": "The Josiah Quincy Upper School (JQUS) and Muriel S. Snowden International School do. \n
+    The IB curriculum at JQUS teaches students to be critical learners, analytical thinkers, and compassionate humanitarians that are well-balanced, principled, open-minded, and caring. In addition to a rigorous academic program that prepares students for university work, it provides diverse and rich extracurricular programs and activities to develop students’ social lives. \n
+    The Muriel S. Snowden International School is an International Baccalaureate World School with a demanding college preparatory curriculum and a focus on global studies. Snowden has additional graduation requirements including: four years of the same language (Japanese, Mandarin, Spanish, or French), Community Action Service, a senior research paper and studies in International Relations. Students must earn a minimum grade of a C- in order to pass each course.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "What is the dual language program?",
+    "role": "user"
+},
+{
+    "content": "In this program model, half of the students in the classroom are speakers of the program’s partner language and the other half are English speakers, taught by a team of highly qualified teachers. Instruction is provided in both languages with the goal that students will become bilingual or biliterate. The program entry grade levels are K1 to 2 and 9 to 11. Students between grade levels 3 and 8 must be assessed by the school in the partner language to enter the program. English learner (EL) students also receive English Language Development (ELD) instruction, which is designed to teach English to EL students.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Which schools offer the dual language program?",
+    "role": "user"
+},
+{
+    "content": "In this program model, half of the students in the classroom are speakers of the program’s partner language and the other half are English speakers, taught by a team of highly qualified teachers. Instruction is provided in both languages with the goal that students will become bilingual or biliterate. The program entry grade levels are K1 to 2 and 9 to 11. Students between grade levels 3 and 8 must be assessed by the school in the partner language to enter the program. English learner (EL) students also receive English Language Development (ELD) instruction, which is designed to teach English to EL students.",
+    "role": "assistant"
+}
+]
+[
+{
+    "content": "Which schools in Boston Public Schools offer a dual language program?",
+    "role": "user"
+},
+{
+    "content": "The following Boston Public Schools offer a dual language program:\n1. Âu Cơ Preschool\n2. Horace Mann School\n3. Hurley K–8 School\n4. Mario Umana Academy\n5. Margarita Muñiz Academy\n6. Mather Elementary School\n7. Mattahunt Elementary School\n8. Rafael Hernández K–8 School\n9. Sarah Greenwood K–8 School",
+    "role": "assistant"
+}
+]
