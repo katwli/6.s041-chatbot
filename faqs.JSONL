@@ -1,112 +1,112 @@
 [
-    {
-        "content": "What should I know about kindergarten?",
-        "role": "user"
-    },
-    {
-        "content": "K2 Kindergarten is a six-hour (full-day) program for 5-year-olds and is provided in all BPS elementary schools and early learning centers. School assignment is guaranteed for all children who apply for K2. However, due to space constraints, including the reality that most K1 students moving up into K2 seats in their same school, an assignment cannot be guaranteed to a specific school. Please be sure to inquire during School Choice season about the number of open seats anticipated, and please register in the month of January for the best chance at securing an assignment in a school of your choosing. Visit https://www.bostonpublicschools.org/enrollment/welcome-services/grade-levels-overview/kindergarten for more information.",
-        "role": "assistant"
-    }
+{
+    "content": "What should I know about kindergarten?",
+    "role": "user"
+},
+{
+    "content": "K2 Kindergarten is a six-hour (full-day) program for 5-year-olds and is provided in all BPS elementary schools and early learning centers. School assignment is guaranteed for all children who apply for K2. However, due to space constraints, including the reality that most K1 students moving up into K2 seats in their same school, an assignment cannot be guaranteed to a specific school. Please be sure to inquire during School Choice season about the number of open seats anticipated, and please register in the month of January for the best chance at securing an assignment in a school of your choosing. Visit https://www.bostonpublicschools.org/enrollment/welcome-services/grade-levels-overview/kindergarten for more information.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "What is Countdown to Kindergarten?",
-        "role": "user"
-    },
-    {
-        "content": "Countdown to Kindergarten is a partnership BPS leads with the City of Boston, and many community organizations, which aims to provide a positive and supportive transition into BPS kindergarten (K0, K1 or K2) for students and their families. The initiative offers free parent-child playgroups, provides readiness tips and opportunities, and hosts workshops and other transition activities. Pick up copies of their publications, available in many languages, at any Welcome Center, call 617-635-9288, visit their Facebook page, or explore their website: www.countdowntokindergarten.org.",
-        "role": "assistant"
-    }
+{
+    "content": "What is Countdown to Kindergarten?",
+    "role": "user"
+},
+{
+    "content": "Countdown to Kindergarten is a partnership BPS leads with the City of Boston, and many community organizations, which aims to provide a positive and supportive transition into BPS kindergarten (K0, K1 or K2) for students and their families. The initiative offers free parent-child playgroups, provides readiness tips and opportunities, and hosts workshops and other transition activities. Pick up copies of their publications, available in many languages, at any Welcome Center, call 617-635-9288, visit their Facebook page, or explore their website: www.countdowntokindergarten.org.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "How many schools should I list on my registration form?",
-        "role": "user"
-    },
-    {
-        "content": "More is better. At a minimum, BPS suggests you list five schools in the order in which you would like to attend, but they encourage you to rank as many schools as possible. Listing more schools does not harm your chances of getting into your first choice school. BPS' assignment process works to provide your child with a seat at the school of your highest ranking, if there is an available seat. However, selections are done in random order, so it is important to list all the schools for which you are interested, in case there are no open seats at your top choices.",
-        "role": "assistant"
-    }
+{
+    "content": "How many schools should I list on my registration form?",
+    "role": "user"
+},
+{
+    "content": "More is better. At a minimum, BPS suggests you list five schools in the order in which you would like to attend, but they encourage you to rank as many schools as possible. Listing more schools does not harm your chances of getting into your first choice school. BPS' assignment process works to provide your child with a seat at the school of your highest ranking, if there is an available seat. However, selections are done in random order, so it is important to list all the schools for which you are interested, in case there are no open seats at your top choices.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "What does “Additional Application Requirements” or “Special Admissions” mean?",
-        "role": "user"
-    },
-    {
-        "content": "Certain schools require students to submit an extra application to be considered for admission. These applications can sometimes include an essay, teacher recommendations, and/or an audition. Contact the school directly to learn about their application process, or explore more information DiscoverBPS.org. Note: If you do not submit a separate application to these schools, you will not be considered for admission.",
-        "role": "assistant"
-    }
+{
+    "content": "What does “Additional Application Requirements” or “Special Admissions” mean?",
+    "role": "user"
+},
+{
+    "content": "Certain schools require students to submit an extra application to be considered for admission. These applications can sometimes include an essay, teacher recommendations, and/or an audition. Contact the school directly to learn about their application process, or explore more information DiscoverBPS.org. Note: If you do not submit a separate application to these schools, you will not be considered for admission.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "What schools require special application processes?",
-        "role": "user"
-    },
-    {
-        "content": "Schools requiring special application processes include Boston Arts Academy, Boston Day and Evening Academy, Boston Green Academy, Edward M. Kennedy Academy for Health Careers, Fenway High School, New Mission High School, and Madison Park Technical Vocational High School.",
-        "role": "assistant"
-    }
+{
+    "content": "What schools require special application processes?",
+    "role": "user"
+},
+{
+    "content": "Schools requiring special application processes include Boston Arts Academy, Boston Day and Evening Academy, Boston Green Academy, Edward M. Kennedy Academy for Health Careers, Fenway High School, New Mission High School, and Madison Park Technical Vocational High School.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "How is the choice process different for schools with additional requirements?",
-        "role": "user"
-    },
-    {
-        "content": "Although each of these schools has its own application, families must also rank them on their BPS School Choice form, along with their other choices in the order of preference. Boston Public Schools assignment process works to provide students and families with their highest ranked option to which seats are available; however, because it cannot guarantee a specific assignment, it will always benefit you to rank your choices honestly. It is important to note that there is no advantage to ranking special admissions schools last. It will actually put at risk any possible assignment to a school at which you were accepted. This is because the BPS system aims to place students in their highest ranked schools – and then confirm their acceptance to any special admission schools – before finalizing the assignment.",
-        "role": "assistant"
-    }
+{
+    "content": "How is the choice process different for schools with additional requirements?",
+    "role": "user"
+},
+{
+    "content": "Although each of these schools has its own application, families must also rank them on their BPS School Choice form, along with their other choices in the order of preference. Boston Public Schools assignment process works to provide students and families with their highest ranked option to which seats are available; however, because it cannot guarantee a specific assignment, it will always benefit you to rank your choices honestly. It is important to note that there is no advantage to ranking special admissions schools last. It will actually put at risk any possible assignment to a school at which you were accepted. This is because the BPS system aims to place students in their highest ranked schools – and then confirm their acceptance to any special admission schools – before finalizing the assignment.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "What are exam schools?",
-        "role": "user"
-    },
-    {
-        "content": "BPS has three exam schools: Boston Latin Academy, Boston Latin School, and O’Bryant School of Math & Science.",
-        "role": "assistant"
-    }
+{
+    "content": "What are exam schools?",
+    "role": "user"
+},
+{
+    "content": "BPS has three exam schools: Boston Latin Academy, Boston Latin School, and O’Bryant School of Math & Science.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "What are charter schools?",
-        "role": "user"
-    },
-    {
-        "content": "There are three in-district charter schools that serve students in grades 9-12: Boston Day and Evening Academy, Boston Green Academy, and Edwards M. Kennedy Academy for Health Careers. These schools are shown on your choice list but also require an additional application to each school. There are additional charter schools in and around Boston that will not appear on your choice list. These schools are not part of Boston Public Schools and have their own enrollment processes. If you are interested in one of these schools, please visit applybostoncharterschools.org.",
-        "role": "assistant"
-    }
+{
+    "content": "What are charter schools?",
+    "role": "user"
+},
+{
+    "content": "There are three in-district charter schools that serve students in grades 9-12: Boston Day and Evening Academy, Boston Green Academy, and Edwards M. Kennedy Academy for Health Careers. These schools are shown on your choice list but also require an additional application to each school. There are additional charter schools in and around Boston that will not appear on your choice list. These schools are not part of Boston Public Schools and have their own enrollment processes. If you are interested in one of these schools, please visit applybostoncharterschools.org.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "When will I be informed of my assigned school?",
-        "role": "user"
-    },
-    {
-        "content": "Students entering grade 9 that participate in the priority registration period and submit their school choices by the beginning of February will receive their school assignment by the end of March. Students that are entering grades 7, 10, 11, and 12 or students that miss out on the priority registration period for grade 9 will be part of the second registration period and will find out their school assignment by the end of May. Please note that if your child requires a full inclusion or substantially separate placement, some of this information may not apply. Please contact the Office of Special Education at 617-635-8599 if you have any questions.",
-        "role": "assistant"
-    }
+{
+    "content": "When will I be informed of my assigned school?",
+    "role": "user"
+},
+{
+    "content": "Students entering grade 9 that participate in the priority registration period and submit their school choices by the beginning of February will receive their school assignment by the end of March. Students that are entering grades 7, 10, 11, and 12 or students that miss out on the priority registration period for grade 9 will be part of the second registration period and will find out their school assignment by the end of May. Please note that if your child requires a full inclusion or substantially separate placement, some of this information may not apply. Please contact the Office of Special Education at 617-635-8599 if you have any questions.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "What is Boston Public School's policy on International Exchange Students?",
-        "role": "user"
-    },
-    {
-        "content": "If you are an international student looking to enroll in BPS as part of an exchange program or on a temporary basis, you must be enrolled in grade 9, 10, or 11 and the duration of your enrollment in BPS cannot exceed one academic year.",
-        "role": "assistant"
-    }
+{
+    "content": "What is Boston Public School's policy on International Exchange Students?",
+    "role": "user"
+},
+{
+    "content": "If you are an international student looking to enroll in BPS as part of an exchange program or on a temporary basis, you must be enrolled in grade 9, 10, or 11 and the duration of your enrollment in BPS cannot exceed one academic year.",
+    "role": "assistant"
+}
 ]
 [
-    {
-        "content": "What is Boston Public School's policy on International Exchange Students?",
-        "role": "user"
-    },
-    {
-        "content": "If you are an international student looking to enroll in BPS as part of an exchange program or on a temporary basis, you must be enrolled in grade 9, 10, or 11 and the duration of your enrollment in BPS cannot exceed one academic year.",
-        "role": "assistant"
-    }
+{
+    "content": "What is Boston Public School's policy on International Exchange Students?",
+    "role": "user"
+},
+{
+    "content": "If you are an international student looking to enroll in BPS as part of an exchange program or on a temporary basis, you must be enrolled in grade 9, 10, or 11 and the duration of your enrollment in BPS cannot exceed one academic year.",
+    "role": "assistant"
+}
 ]
 [
 {
