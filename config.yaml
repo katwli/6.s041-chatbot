@@ -1,0 +1,32 @@
+task: llm-orpo
+base_model: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+project_name: boston-chatbot
+log: tensorboard
+backend: local
+
+data:
+  path: katwli/boston_chatbot
+  train_split: faqs
+  valid_split: null
+  chat_template: chatml
+  column_mapping:
+    text_column: chosen
+    rejected_text_column: rejected
+    prompt_text_column: prompt
+
+params:
+  block_size: 1024
+  model_max_length: 8192
+  max_prompt_length: 512
+  epochs: 3
+  batch_size: 2
+  lr: 3e-5
+  peft: true
+  quantization: int4
+  target_modules: all-linear
+  padding: right
+  optimizer: adamw_torch
+  scheduler: linear
+  gradient_accumulation: 4
+  mixed_precision: fp16
+
